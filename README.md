@@ -8,4 +8,4 @@ One export carries the strands as polygon meshes and has a gzip-compressed OBJ o
 
 ## Licence
 
-CC0 1.0, as `rug.json` records; the model is by wbks.
+CC0 1.0. See [LICENSE](LICENSE).
